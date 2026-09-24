@@ -4,8 +4,8 @@ class GFG {
         long l = i;
         float f = 1;
 
-        System.out.print("int value " + i);
-        System.out.print("long value " + l);
-        System.out.print("float value " + f);
+        System.out.println("int value " + i);
+        System.out.println("long value " + l);
+        System.out.println("float value " + f);
     }
 }
